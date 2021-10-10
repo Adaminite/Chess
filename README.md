@@ -1,2 +1,4 @@
 # Chess
-A GUI Chess Application
+A Java Chess Application
+
+Note: The project is complete, and is no longer being worked on.
